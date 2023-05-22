@@ -1,0 +1,8 @@
+main {
+  height: 100vh;
+  background-color: rgb(241, 241, 241);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url('/src/assets/bg2.svg') repeat;
+}
